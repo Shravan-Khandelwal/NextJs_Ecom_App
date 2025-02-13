@@ -50,8 +50,8 @@ after:border-t-[4.4em] after:border-t-black
             <Spline scene="https://prod.spline.design/sbSQe0ZSyWMK89RE/scene.splinecode" />
           </div>
           <div className="text-center flex flex-col justify-center  min-h-[80vh]">
-            <p className="text-7xl leading-snug font-bold min-h-[30vh]">
-          Deals That Deliver's Smiles<br />   
+           <p className="text-7xl leading-snug font-bold min-h-[30vh]">
+          Deals That Deliver &apos;s Smiles<br />   
             </p>
           </div>
         </div>
