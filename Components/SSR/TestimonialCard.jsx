@@ -9,7 +9,7 @@ function TestimonialCard({ TestimonialsData }) {
         </h2>
         <p>{TestimonialsData.body}</p>
         <div className="flex items-center  font-semibold px-4 text-lg  justify-center">
-          <p>💗Like's : {TestimonialsData.likes}</p>
+          <p>💗Like &apos;s : {TestimonialsData.likes}</p>
           <p>{TestimonialsData.user.username}</p>
         </div>
       </div>
