@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  border: 0;
+}
+
+.progress-bar {
+  height: 4px; /* Adjust height as needed */
+  background-color: black; /* Ensure it's a contrasting color */
+  position: fixed; /* Positioning may be necessary */
+  top: 0; /* Align to the top of the container */
+  left: 0; /* Align to the left of the container */
+  width: 100%; /* Full width */
+}
+
+@layer base {
+  :root {
+    --radius: 0.5rem;
+  }
+}
