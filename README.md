@@ -1,4 +1,5 @@
-🛍️ EcomEase - Next.js E-commerce Platform
+# 🛍️ EcomEase - Next.js E-commerce Platform
+
 
 Welcome to EcomEase – A modern, user-friendly e-commerce platform built to provide a seamless shopping experience. 🛒
 
