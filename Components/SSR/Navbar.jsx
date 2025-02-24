@@ -7,7 +7,7 @@ function Navbar() {
 
 
   return (
-    <div className="navbar bg-transparent rounded-t-2xl text-2xl  px-8 py-2">
+    <div className="navbar !important bg-transparent rounded-t-2xl text-2xl  px-8 py-2">
       <div className="flex-1">
         <AnimatedLink className="btn btn-ghost text-xl"><Link href="/">HOME </Link></AnimatedLink>
       </div>
