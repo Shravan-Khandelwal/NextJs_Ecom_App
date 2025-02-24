@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/32bdf812-13d4-4e9b-9492-77e2078fea6e)
+
 # 🛍️ EcomEase - Next.js E-commerce Platform
 
 Welcome to **EcomEase** – A modern, user-friendly e-commerce platform built to provide a seamless shopping experience. 🛒
